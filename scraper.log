@@ -1,0 +1,39 @@
+DEBUG:root:Scraper started.
+2017-11-11 10:19:24,151.151 [9628] - Scraper started.
+2017-11-11 10:19:48,552.552 [8208] [DEBUG] - Scraper started.
+YYYY-MM-DDTHH-mm-SS.530 [8128] [DEBUG] - Scraper started.
+17-11-11 10-23-35.839 [7604] [DEBUG] - Scraper started.
+17y-11m-11d 10:24:10.043 [7792] [DEBUG] - Scraper started.
+2017-11-11 10:25:22.706 [1472] [DEBUG] - Scraper started.
+2017-11-11 10:53:18.529 [5664] [DEBUG] - Scraper started.
+2017-11-11 20:17:56.887 [3760] [DEBUG] - Scraper started.
+2017-11-11 20:17:56.896 [3760] [DEBUG] - Starting new HTTPS connection (1): dayton.craigslist.org
+2017-11-11 20:17:57.727 [3760] [DEBUG] - https://dayton.craigslist.org:443 "GET /search/sss/?query=humidor HTTP/1.1" 200 15881
+2017-11-11 20:18:00.890 [3760] [INFO] - For item <li class="result-row" data-pid="6375338093" data-repost-of="6246528399">
+<a class="result-image gallery" data-ids="1:00W0W_lKm3Fn0N3th,1:00h0h_22I4L8SNFul,1:00k0k_8sZVMsHbmYf,1:00h0h_a6N67sHh2Lx,1:00v0v_MNJWFhTzEm,1:00N0N_lDqPAUKL9E1,1:00P0P_7Lb8h98mxeG" href="https://dayton.craigslist.org/atd/d/mm-humidor-co-indianapolis/6375338093.html">
+<span class="result-price">$75</span>
+</a>
+<p class="result-info">
+<span class="icon icon-star" role="button">
+<span class="screen-reader-text">favorite this post</span>
+</span>
+<time class="result-date" datetime="2017-11-09 20:30" title="Thu 09 Nov 08:30:58 PM">Nov  9</time>
+<a class="result-title hdrlnk" data-id="6375338093" href="https://dayton.craigslist.org/atd/d/mm-humidor-co-indianapolis/6375338093.html">M&amp;M HUMIDOR co Indianapolis for N N Smith Co Frankfort I</a>
+<span class="result-meta">
+<span class="result-price">$75</span>
+<span class="result-hood"> (West Chester Antique Center)</span>
+<span class="result-tags">
+                    pic
+                    <span class="maptag" data-pid="6375338093">map</span>
+</span>
+<span class="banish icon icon-trash" role="button">
+<span class="screen-reader-text">hide this posting</span>
+</span>
+<span aria-hidden="true" class="unbanish icon icon-trash red" role="button"></span>
+<a class="restore-link" href="#">
+<span class="restore-narrow-text">restore</span>
+<span class="restore-wide-text">restore this posting</span>
+</a>
+</span>
+</p>
+</li> we found 25 items, 1 of which are new
